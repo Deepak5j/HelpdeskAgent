@@ -1,3 +1,3 @@
 # HelpdeskAgent
-# [Demo](https://github.com/deepak5j/HelpdeskAgent)
+# [Demo](https://deepak5j.github.io/HelpdeskAgent)
 ![screenshot](img.png)
